@@ -1,0 +1,21 @@
+/* head div*/
+#head{
+    background-image: linear-gradient(rgb(120, 120, 255), black);
+}
+#head h1{
+    color: white;
+    margin: 0px 390px -50px ;
+}
+#head img{
+    margin: 29px 130px ;
+}
+/*nav bar*/
+nav li{
+    color: white;
+    text-decoration: none;
+    margin: 20px 20px 10px;
+}
+nav ul{
+    display: flex;
+    text-decoration: none;
+}
